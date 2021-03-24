@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+.active {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.whoIsActive {
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 60px;
+  font-size: 40px;
+}
+
+.whoWon {
+  position: absolute;
+  margin-top: 460px;
+  margin-left: 10px;
+  font-size: 40px;
+}
+
+.image {
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.sizeButton {
+  padding: 90px;
+}
+
+.xo {
+  position: absolute;
+}
+
+#topLeft {
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 110px;
+}
+
+#topLeftXO {
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 135px;
+  font-size: 80px;
+}
+
+#topMiddle {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 110px;
+}
+
+#topMiddleXO {
+  position: absolute;
+  margin-left: 810px;
+  margin-top: 135px;
+  font-size: 80px;
+}
+
+#topRight {
+  position: absolute;
+  margin-left: 1160px;
+  margin-top: 110px;
+}
+
+#topRightXO {
+  position: absolute;
+  margin-left: 1260px;
+  margin-top: 135px;
+  font-size: 80px;
+}
+
+#middleLeft {
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 400px;
+}
+
+#middleLeftXO {
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 425px;
+  font-size: 80px;
+}
+
+#center {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 400px;
+}
+
+#centerXO {
+  position: absolute;
+  margin-left: 810px;
+  margin-top: 425px;
+  font-size: 80px;
+}
+
+#middleRight {
+  position: absolute;
+  margin-left: 1160px;
+  margin-top: 400px;
+}
+
+#middleRightXO {
+  position: absolute;
+  margin-left: 1260px;
+  margin-top: 425px;
+  font-size: 80px;
+}
+
+#bottomLeft {
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 700px;
+}
+
+#bottomLeftXO {
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 725px;
+  font-size: 80px;
+}
+
+#bottomMiddle {
+  position: absolute;
+  margin-left: 750px;
+  margin-top: 700px;
+}
+
+#bottomMiddleXO {
+  position: absolute;
+  margin-left: 810px;
+  margin-top: 725px;
+  font-size: 80px;
+}
+
+#bottomRight {
+  position: absolute;
+  margin-left: 1160px;
+  margin-top: 700px;
+  opacity: 100;
+}
+
+#bottomRightXO {
+  position: absolute;
+  margin-left: 1260px;
+  margin-top: 725px;
+  font-size: 80px;
+}
+
+.hidden {
+  display: none;
+}
